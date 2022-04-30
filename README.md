@@ -1,2 +1,2 @@
 # Libft_42
-<h1>My lift</h1>
+<h1>My libft</h1>
